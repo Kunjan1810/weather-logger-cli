@@ -9,7 +9,3 @@
 - Duplicate fetch protection (2hr)
 - Plot saved in `/plots/`
 
-## 🔧 Requirements
-
-```bash
-pip install -r requirements.txt
